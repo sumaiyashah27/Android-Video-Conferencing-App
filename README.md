@@ -4,6 +4,7 @@ In this project, I developed an Android application using Java, integrated with 
 
 ## 📂 Project Structure  
 ```
+ /Meet_App2                # Project root directory  
 .idea/                     # Android Studio project files  
 app/                       # Main application source code  
 gradle/wrapper/            # Gradle wrapper configurations  
@@ -33,7 +34,7 @@ Follow these steps to set up and run the Android Video Conferencing App:
 
 ### 1️⃣ Clone the Repository  
 ```sh
- git clone https://github.com/your-repo/android-video-conferencing-app.git
+ git clone https://github.com/sumaiyashah27/android-video-conferencing-app.git
  cd android-video-conferencing-app
 ```
 
