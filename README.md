@@ -2,20 +2,6 @@
 
 In this project, I developed an Android application using Java, integrated with Jitsi Meet for seamless video conferencing. The app allows users to join and host meetings with a simple and intuitive interface.  
 
-## 📂 Project Structure  
-```
- /Meet_App2                # Project root directory  
-.idea/                     # Android Studio project files  
-app/                       # Main application source code  
-gradle/wrapper/            # Gradle wrapper configurations  
-.gitignore                 # Git ignore file  
-build.gradle               # Gradle build script  
-gradle.properties          # Gradle project properties  
-gradlew                    # Gradle wrapper script (Unix)  
-gradlew.bat                # Gradle wrapper script (Windows)  
-package-lock.json          # Dependency lock file  
-settings.gradle            # Gradle settings file  
-```
 
 ## 🚀 Features  
 ✔️ Host and join video meetings seamlessly  
