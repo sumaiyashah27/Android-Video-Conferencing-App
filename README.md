@@ -14,7 +14,7 @@ In this project, I developed an Android application using Java, integrated with 
 - Jitsi Meet API  
 - Gradle  
 
-## 🛠️ Steps to Run the Project  
+## 🏗️ Installation Guide
 
 Follow these steps to set up and run the Android Video Conferencing App:
 
