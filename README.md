@@ -3,24 +3,24 @@
 In this project, I developed an Android application using Java, integrated with Jitsi Meet for seamless video conferencing. The app allows users to join and host meetings with a simple and intuitive interface.  
 
 
-## 🚀 Features  
-✔️ Host and join video meetings seamlessly  
-✔️ Secure communication using Jitsi Meet API  
-✔️ User-friendly and intuitive interface  
-✔️ Lightweight and optimized for Android devices   
+##  Features  
+- Host and join video meetings seamlessly
+- Secure communication using Jitsi Meet API
+- User-friendly and intuitive interface
+- Lightweight and optimized for Android devices
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - Java (Android)  
 - Jitsi Meet API  
-- Gradle  
+- Gradle
 
-## 🏗️ Installation Guide
+## Installation Guide
 
 Follow these steps to set up and run the Android Video Conferencing App:
 
 ### 1️⃣ Clone the Repository  
 ```sh
- git clone https://github.com/sumaiyashah27/android-video-conferencing-app.git
+ git clone https://github.com/sumaiyashah27/Android-Video-Conferencing-App.git
  cd android-video-conferencing-app
 ```
 
@@ -44,5 +44,5 @@ Follow these steps to set up and run the Android Video Conferencing App:
 
 ## 📧 Contact
 For any queries or support, feel free to reach out:
-- 📩 **Email:** [sumaiyashah647@gmail.com](mailto:sumaiyashah647@gmail.com)
-- 🔗 **LinkedIn:** [Sumaiya Shah](https://www.linkedin.com/in/sumaiya-shah-7a0706224/)
+-  **Email:** [sumaiyashah647@gmail.com](mailto:sumaiyashah647@gmail.com)
+-  **LinkedIn:** [Sumaiya Shah](https://www.linkedin.com/in/sumaiya-shah-7a0706224/)
